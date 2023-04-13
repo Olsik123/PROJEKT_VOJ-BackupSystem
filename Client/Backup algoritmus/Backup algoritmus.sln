@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backup algoritmus", "Backup algoritmus\Backup algoritmus.csproj", "{D72253B9-87B5-4F14-9AC5-DE1DBD579614}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D72253B9-87B5-4F14-9AC5-DE1DBD579614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D72253B9-87B5-4F14-9AC5-DE1DBD579614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D72253B9-87B5-4F14-9AC5-DE1DBD579614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D72253B9-87B5-4F14-9AC5-DE1DBD579614}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C916D80-5155-4A81-B2B8-BF7A1CBB64BE}
+	EndGlobalSection
+EndGlobal

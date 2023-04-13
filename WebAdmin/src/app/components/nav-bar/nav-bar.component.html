@@ -1,0 +1,56 @@
+<div class="application">
+  <div class="menu">
+    <div class="noLogout">
+      <ul *ngIf="authenticated">  
+      <div class="time">
+        <li><p>{{GetTime()}}</p></li>
+        <li><p>{{GetDate()}}</p></li>
+      </div>
+      <li><a  routerLinkActive="activeLink" routerLink="/homepage">Home</a></li>
+      <li><a  routerLinkActive="activeLink" routerLink="/configs">Configs</a></li>
+      <li><a  routerLinkActive="activeLink" routerLink="/clients">Clients</a></li>
+      <li><a  routerLinkActive="activeLink" routerLink="/reports">Reports</a></li>
+      <li><a  routerLinkActive="activeLink" routerLink="/settings">Settings</a></li>
+      <li><a
+        routerLinkActive="activeLink"
+        routerLink="/configsMessage"
+        data-bs-toggle="modal"
+          data-bs-target="#exampleModalHelp">Help</a></li>
+    </ul>
+    </div>
+    <ul class="logout">
+      <li ><a routerLinkActive="activeLink" href="" (click)="logout()" >Log out</a></li>
+    </ul>
+    <img class="picture " src="../../../assets/pictures/voj_filesystem.png" alt="Logo">
+  </div>
+  <div class="content">
+    <router-outlet></router-outlet>
+  </div>
+</div>
+
+<div class="popup">
+  <div class="modal fade" id="exampleModalHelp" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-scrollable">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h1 class="modal-title" id="exampleModalLabel">Help</h1>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+        <p>- HOMEPAGE - přehled událostí</p>
+        <p>- CONFIGS - vytvoření novéko configu a přiřazení na stanici</p>
+        <p>- CLIENTS - přehled stanic s kterýma můžeme pracovat</p>
+        <p>- REPORTS - přehled vyskytlých chyb</p>
+        <p>- SETTINGS - nastavení odesílní emailu</p>
+        <hr>
+        VOJ File System funguje tím způsobem, že jako první krok je nutné v záložce 'VERIFY CLIENT(homepage)'
+        přijmout stanici do oběhu a přiřadit jí alias, dále v kolonce 'CONFIGS' vytvořit config, který lze na stanici přiřadit podle kterého se bude zálohovat
+
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

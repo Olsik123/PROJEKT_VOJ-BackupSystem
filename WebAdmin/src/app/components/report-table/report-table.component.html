@@ -1,0 +1,69 @@
+<div class="col content">
+  <div class="pickers">
+    <mat-form-field hidden class="example-full-width config-picker" appearance="fill">
+      <mat-label>Config name</mat-label>
+      <input matInput  [(ngModel)]="SearchedConfig">
+    </mat-form-field>
+    <mat-form-field hidden class="example-full-width  client-picker" appearance="fill">
+      <mat-label>Client name</mat-label>
+      <input matInput [(ngModel)]="SearchedClient" >
+    </mat-form-field>
+
+    <mat-form-field hidden appearance="fill" class="status-picker">
+      <mat-label>Select</mat-label>
+      <mat-select (click)="sendRequest()"   [(ngModel)]="status">
+        <mat-option value="0">None</mat-option>
+        <mat-option value="1">Success</mat-option>
+        <mat-option value="2">Failure</mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    <mat-form-field hidden appearance="fill">
+      <mat-label>Enter a date range</mat-label>
+      <mat-date-range-input [rangePicker]="picker">
+        <input (click)="sendRequest()" [(ngModel)]="datefrom" matStartDate placeholder="Start date">
+        <input (click)="sendRequest()" [(ngModel)]="dateto" matEndDate placeholder="End date">
+      </mat-date-range-input>
+      <mat-hint>MM/DD/YYYY – MM/DD/YYYY</mat-hint>
+      <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+      <mat-date-range-picker #picker></mat-date-range-picker>
+    </mat-form-field>
+
+    <div class="fill"></div>
+  </div>
+
+  <div class="row table-row">
+    <table class="table table-striped ReportTable"
+    >
+      <thead>
+      <tr>
+        <th scope="col">Config</th>
+        <th scope="col">Client</th>
+        <th scope="col" class="small-th">Status</th>
+        <th scope="col">Date</th>
+        <th scope="col">Message</th>
+      </tr>
+      </thead>
+
+      <tbody  *ngFor="let report of reports; index as i">
+      <tr class="change-colors">
+        <td  > {{report.config}}</td>
+        <td  > {{report.station}}</td>
+        <td  class="centered colorText"  [ngClass]="{
+            'positive' : report.success == true,
+            'negative' : report.success == false
+         }"> {{report.success ? 'Success':'Failure'}}</td>
+        <td  > {{report.time  }}</td>
+        <td>
+          <button class="btn-secondary" (click)="openDialog(report.message)">Message</button>
+        </td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+
+
+
+

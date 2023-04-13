@@ -1,0 +1,242 @@
+.TopBar{
+  background-color: #a6a6a6;
+  color:  black;
+  margin: 0;
+  height: 5vw;
+
+}
+h1{
+  font-size: 300%;
+  padding-top: 1.5%;
+  color: black;
+  font-family: 'Raleway',sans-serif;
+  font-weight: 800;
+  line-height: 2vw;
+  text-align: center;
+  height: 5vw;
+  text-transform: uppercase;
+}
+.names{
+  width: 60vw;
+}
+.buttons{
+  width: 60vw;
+}
+h2{
+  margin-left: 2vW;
+  margin-top: 2vw;
+}
+h3{
+  margin-left: 2vW;
+  font-size: 150%;
+
+}
+h4{
+  padding: 0;
+}
+.cron-headline{
+  margin-left: 16VW;
+
+}
+.CronNames{
+  width:  36vw;
+  margin-left: 2vw;
+}
+.month-name{
+  margin-left: 2vw;
+
+}
+.hours-name{
+  margin-left: 1vw;
+}
+.fc{
+  text-align: center;
+}
+
+.Simple{
+margin-left: 10vw;
+}
+
+.Advanced {
+  margin-left: 13vw;
+}
+.FCheck{
+  margin-bottom: 1vw;
+}
+.DayOfWeek{
+  margin-left: 10vw;
+}
+/* Customize the label (the container) */
+.container {
+  display: block;
+  position: relative;
+  padding-left: 2vw;
+  margin-left: 2vw;
+  margin-bottom: 2vw;
+  cursor: pointer;
+  font-size: 170%;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default radio button */
+.container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom radio button */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+  border-radius: 50%;
+}
+
+/* On mouse-over, add a grey background color */
+.container:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+/* When the radio button is checked, add a blue background */
+.container input:checked ~ .checkmark {
+  background-color: #2196F3;
+}
+
+/* Create the indicator (the dot/circle - hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the indicator (dot/circle) when checked */
+.container input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the indicator (dot/circle) */
+.container .checkmark:after {
+  top: 9px;
+  left: 9px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: white;
+}
+  /* Customize the label (the container) */
+.container2 {
+  display: block;
+  position: relative;
+  padding-left: 2vw;
+  margin-left: 2vw;
+  margin-bottom: 2vw;
+  cursor: pointer;
+  font-size: 170%;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.container2 input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom checkbox */
+.checkmark2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+}
+
+/* On mouse-over, add a grey background color */
+.container2:hover input ~ .checkmark2 {
+  background-color: #ccc;
+}
+
+/* When the checkbox is checked, add a blue background */
+.container2 input:checked ~ .checkmark2 {
+  background-color: #2196F3;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark2:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+.container2 input:checked ~ .checkmark2:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+.container2 .checkmark2:after {
+  left: 9px;
+  top: 5px;
+  width: 8px;
+  height: 13px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+.timer{
+  margin-left: 2vw;
+  height: 2vw;
+  width: 5vw;
+  font-size: 150%;
+}
+
+.timer2{
+  height: 2vw;
+  width: 5vw;
+  font-size: 150%;
+  padding: 0;
+
+}
+.Timer2{
+  padding: 0;
+  margin: 0;
+  width: 15vw;
+}
+.weekly-row{
+  width: 50vw;
+}
+.weekly-timer{
+  width: 15vw;
+}
+.example-container{
+  width: 15vw;
+}
+.name-of-timer2{
+  width: 30vw;
+  margin-right: 0;
+  padding: 0;
+}
+.timer-in-daily{
+  font-size: 150%;
+}
+.Daily{
+  margin-top: 5vw;
+}
+

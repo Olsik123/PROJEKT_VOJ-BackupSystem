@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d72253b9-87b5-4f14-9ac5-de1dbd579614": {
+      "ProjectGuid": "d72253b9-87b5-4f14-9ac5-de1dbd579614",
+      "DisplayName": "Backup algoritmus",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Ostatní soubory",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,89 @@
+<form [formGroup]="form" (ngSubmit)="submit()">
+  <div class="top-buttons" >
+  <mat-grid-list cols="4" rowHeight="2:1">
+    <mat-grid-tile></mat-grid-tile>
+    <mat-grid-tile>
+      <div class="mb-3 alias alias-box">
+      <h2 id="Alias">Client Alias:</h2>
+      <label class="form-label"></label>
+      <input id="inp1" type="text" class="form-control alias-input" formControlName="alias">
+      <div class="invalid-feedback">
+        Pole je povinné
+      </div>
+    </div></mat-grid-tile>
+    <mat-grid-tile>
+      <div class="col rad-buttons">
+      <h2>Verify:</h2>
+        <div class="buttons row">
+          <div id="rad1">
+            <label class="container label-simple">
+              <input  class="input" type="radio" [value]=true formControlName="verified" >Verified
+              <span class="checkmark"></span>
+            </label>
+          </div>
+          <div id="rad2">
+            <label class="container label-simple">
+              <input class="input" type="radio" [value]=false formControlName="verified">Unverified
+              <span class="checkmark"></span>
+            </label>
+          </div>
+        </div>
+      </div>
+      <div class="col rad-buttons">
+        <h2>Block:</h2>
+        <div class="buttons row">
+          <div id="rad3">
+            <label class="container label-simple">
+              <input  class="input" type="radio" [value]=true formControlName="ban" >Blocked
+              <span class="checkmark"></span>
+            </label>
+          </div>
+          <div id="rad4">
+            <label class="container label-simple">
+              <input class="input" type="radio" [value]=false formControlName="ban">Unblocked
+              <span class="checkmark"></span>
+            </label>
+          </div>
+        </div>
+      </div>
+
+    </mat-grid-tile>
+    <mat-grid-tile>
+
+    </mat-grid-tile>
+
+  </mat-grid-list>
+  </div>
+  <div class="row lenght-of-table" >
+    <table class="table table-striped ConfigTable"
+    >
+      <thead>
+      <tr>
+        <th scope="col" class="small-th">Select</th>
+        <th scope="col" class="smaller-th"> Config Name</th>
+        <th scope="col" class="small-th">Clients</th>
+        <th scope="col" class="small-th">Format</th>
+        <th scope="col" class="small-th">Type</th>
+        <th scope="col" class="small-th">Retention</th>
+        <th scope="col" class="small-th">Packages</th>
+      </tr>
+      </thead>
+      <tbody  *ngFor="let config of configs; index as i">
+      <tr class="change-colors">
+        <td>
+          <input  type="checkbox" class="input" value="{{config.id}}" [checked]=checkConfigs(config.id) (change)="addConfig($event)">
+        </td>
+        <td> {{config.alias}}</td>
+        <td> {{config.clients}}</td>
+        <td> {{config.format}}</td>
+        <td> {{config.type}}</td>
+        <td> {{config.retention}}</td>
+        <td> {{config.packages}}</td>
+
+      </tr>
+      </tbody>
+    </table>
+  </div>
+  <button id="save" type="submit" class="btn btn-primary save-button" >Save</button>
+</form>
+

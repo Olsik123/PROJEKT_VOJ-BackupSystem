@@ -1,0 +1,189 @@
+C:\Users\Herní Dělo\Desktop\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.exe
+C:\Users\Herní Dělo\Desktop\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.deps.json
+C:\Users\Herní Dělo\Desktop\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.runtimeconfig.json
+C:\Users\Herní Dělo\Desktop\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.runtimeconfig.dev.json
+C:\Users\Herní Dělo\Desktop\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.dll
+C:\Users\Herní Dělo\Desktop\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.pdb
+C:\Users\Herní Dělo\Desktop\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.csprojAssemblyReference.cache
+C:\Users\Herní Dělo\Desktop\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.AssemblyInfoInputs.cache
+C:\Users\Herní Dělo\Desktop\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.AssemblyInfo.cs
+C:\Users\Herní Dělo\Desktop\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.csproj.CoreCompileInputs.cache
+C:\Users\Herní Dělo\Desktop\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.dll
+C:\Users\Herní Dělo\Desktop\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.pdb
+C:\Users\Herní Dělo\Desktop\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.genruntimeconfig.cache
+C:\Users\ooldi\OneDrive\Plocha\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.exe
+C:\Users\ooldi\OneDrive\Plocha\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.deps.json
+C:\Users\ooldi\OneDrive\Plocha\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.runtimeconfig.json
+C:\Users\ooldi\OneDrive\Plocha\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.runtimeconfig.dev.json
+C:\Users\ooldi\OneDrive\Plocha\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.dll
+C:\Users\ooldi\OneDrive\Plocha\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.pdb
+C:\Users\ooldi\OneDrive\Plocha\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.csproj.AssemblyReference.cache
+C:\Users\ooldi\OneDrive\Plocha\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ooldi\OneDrive\Plocha\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.AssemblyInfoInputs.cache
+C:\Users\ooldi\OneDrive\Plocha\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.AssemblyInfo.cs
+C:\Users\ooldi\OneDrive\Plocha\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.csproj.CoreCompileInputs.cache
+C:\Users\ooldi\OneDrive\Plocha\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.dll
+C:\Users\ooldi\OneDrive\Plocha\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.pdb
+C:\Users\ooldi\OneDrive\Plocha\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.genruntimeconfig.cache
+X:\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.exe
+X:\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.deps.json
+X:\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.runtimeconfig.json
+X:\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.runtimeconfig.dev.json
+X:\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.dll
+X:\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.pdb
+X:\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.csproj.AssemblyReference.cache
+X:\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.GeneratedMSBuildEditorConfig.editorconfig
+X:\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.AssemblyInfoInputs.cache
+X:\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.AssemblyInfo.cs
+X:\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.csproj.CoreCompileInputs.cache
+X:\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.dll
+X:\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.pdb
+X:\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.genruntimeconfig.cache
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.exe
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.deps.json
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.runtimeconfig.json
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.runtimeconfig.dev.json
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.dll
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.pdb
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.csproj.AssemblyReference.cache
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.GeneratedMSBuildEditorConfig.editorconfig
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.AssemblyInfoInputs.cache
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.AssemblyInfo.cs
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.csproj.CoreCompileInputs.cache
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.dll
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.pdb
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.genruntimeconfig.cache
+C:\Users\42073\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.csproj.AssemblyReference.cache
+C:\Users\42073\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42073\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.AssemblyInfoInputs.cache
+C:\Users\42073\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.AssemblyInfo.cs
+C:\Users\42073\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.csproj.CoreCompileInputs.cache
+C:\Users\42073\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.dll
+C:\Users\42073\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.pdb
+C:\Users\42073\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.exe
+C:\Users\42073\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.deps.json
+C:\Users\42073\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.runtimeconfig.json
+C:\Users\42073\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.runtimeconfig.dev.json
+C:\Users\42073\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.dll
+C:\Users\42073\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.pdb
+C:\Users\42073\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\42073\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\42073\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\42073\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Quartz.dll
+C:\Users\42073\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\42073\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\42073\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\42073\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\42073\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\42073\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\42073\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\42073\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\42073\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\42073\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\42073\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\42073\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.csproj.CopyComplete
+C:\Users\42073\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.genruntimeconfig.cache
+D:\Visual Basic\Projekt\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.csproj.AssemblyReference.cache
+D:\Visual Basic\Projekt\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Basic\Projekt\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.AssemblyInfoInputs.cache
+D:\Visual Basic\Projekt\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.AssemblyInfo.cs
+D:\Visual Basic\Projekt\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.csproj.CoreCompileInputs.cache
+D:\Visual Basic\Projekt\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.dll
+D:\Visual Basic\Projekt\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.pdb
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.csproj.AssemblyReference.cache
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.AssemblyInfoInputs.cache
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.AssemblyInfo.cs
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.csproj.CoreCompileInputs.cache
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.dll
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.pdb
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.exe
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.deps.json
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.runtimeconfig.json
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.runtimeconfig.dev.json
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.dll
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.pdb
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Quartz.dll
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.csproj.CopyComplete
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.genruntimeconfig.cache
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\42073\Desktop\projektVOJ_REAL_2\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.csproj.AssemblyReference.cache
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.AssemblyInfoInputs.cache
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.AssemblyInfo.cs
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.csproj.CoreCompileInputs.cache
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.dll
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.pdb
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.exe
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.deps.json
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.runtimeconfig.json
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.runtimeconfig.dev.json
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.dll
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.pdb
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Quartz.dll
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.csproj.CopyComplete
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.genruntimeconfig.cache
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.exe
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.deps.json
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.runtimeconfig.json
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.runtimeconfig.dev.json
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.dll
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Backup algoritmus.pdb
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\Quartz.dll
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.csproj.AssemblyReference.cache
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.AssemblyInfoInputs.cache
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.AssemblyInfo.cs
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.csproj.CoreCompileInputs.cache
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.csproj.CopyComplete
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.dll
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.pdb
+C:\Users\psotkaoldrich\Desktop\projektVOJ-master\Client\Backup algoritmus\Backup algoritmus\obj\Debug\netcoreapp3.1\Backup algoritmus.genruntimeconfig.cache
+D:\Visual Basic\projektVOJ\Client\Backup algoritmus\Backup algoritmus\bin\Debug\netcoreapp3.1\FluentFTP.dll

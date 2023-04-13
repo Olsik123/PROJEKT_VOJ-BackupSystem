@@ -1,0 +1,115 @@
+$menu-color: #333;
+
+.time {
+  height: 5vw;
+  padding: 0;
+  p{
+    margin: 0;
+    padding: 5%;
+    text-align: center;
+    color: #a6a6a6;
+    font-size: 1vw;
+  }
+}
+
+.application {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+
+  .menu {
+    background-color: $menu-color;
+    flex: 0 0 250px;
+    position: fixed;
+    width: 13vw;
+    height: 100%;
+    top: 0;
+    left: 0;
+    .noLogout{
+      ul {
+        margin: 0;
+        padding: 0;
+
+        li {
+          display: block;
+          list-style: none;
+
+          a {
+            display: block;
+            color:  white;
+            background-color: $menu-color;
+            text-decoration: none;
+            padding: 15px;
+            border-bottom: 1px solid lighten($menu-color, 5%);
+
+            &:hover{
+              background-color: lighten( #a6a6a6, 10%);
+              color: #333;
+
+            }
+
+
+          }
+          a.activeLink {
+            background-color: lighten(#a6a6a6, 10%);
+            color: #333;
+          }
+        }
+      }
+
+    }
+      ul {
+        margin: 0;
+        padding: 0;
+
+        li {
+          display: block;
+          list-style: none;
+
+          a {
+            display: block;
+            color: white;
+            background-color: #d35252;
+            text-decoration: none;
+            padding: 15px;
+            border-bottom: 1px solid lighten($menu-color, 5%);
+
+            &:hover {
+              background-color: lighten( red, 20%);
+
+            }
+
+
+          }
+          a.activeLink {
+            background-color: lighten(#a6a6a6, 10%);
+            
+          }
+        }
+      }
+  }
+
+
+  .content {
+    margin-left: 13vw;
+    flex: 1 1 100%;
+    background-color: lighten(white, 10%);
+  }
+
+}
+.picture{
+  margin-top: 15vw;
+  margin-left: 1vw;
+  height: 10vw;
+  width: 10vw;
+}
+body {
+  overflow-x:hidden;
+}
+#exampleModalLabel{
+  position: fixed;
+  right: 49%;
+}
+
+
+

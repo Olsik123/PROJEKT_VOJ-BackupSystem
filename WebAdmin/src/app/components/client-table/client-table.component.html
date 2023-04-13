@@ -1,0 +1,70 @@
+  <div class="col content">
+  <div class="pickers">
+    <mat-form-field hidden class="example-full-width config-picker" appearance="fill">
+      <mat-label>Client name</mat-label>
+      <input matInput [(ngModel)]="SearchedClient">
+    </mat-form-field>
+    <mat-form-field hidden class="example-full-width mac-picker" appearance="fill">
+      <mat-label>MAC Address</mat-label>
+      <input matInput [(ngModel)]="SearchedMAC">
+    </mat-form-field>
+    <mat-form-field hidden class="example-full-width ip-picker" appearance="fill">
+      <mat-label>IP Address</mat-label>
+      <input matInput [(ngModel)]="SearchedIP">
+    </mat-form-field>
+    <mat-form-field hidden appearance="fill" class="status-picker">
+      <mat-label>Select</mat-label>
+      <mat-select [(ngModel)]="SearchedVerify">
+        <mat-option value="0">None</mat-option>
+        <mat-option value="1">Verified</mat-option>
+        <mat-option value="2">Unverified</mat-option>
+      </mat-select>
+      </mat-form-field>
+    <mat-form-field hidden appearance="fill" class="status-picker">
+      <mat-label>Select</mat-label>
+      <mat-select [(ngModel)]="SearchedBlock">
+        <mat-option value="0">None</mat-option>
+        <mat-option value="1">Blocked</mat-option>
+        <mat-option value="2">Unblocked</mat-option>
+      </mat-select>
+    </mat-form-field>
+    <button type="button" class="btn btn-warning war-button" routerLink="/verifyclient">Verify Cllients</button>
+  </div>
+  <div class="row lenght-of-table">
+    <table class="table table-striped ConfigTable"
+    >
+      <thead>
+      <tr>
+        <th scope="col" class="smaller-th">Client name</th>
+        <th scope="col" class="normal-th">Configs</th>
+        <th scope="col" class="address-th">MAC</th>
+        <th scope="col" class="address-th">IP</th>
+        <th scope="col" class="small-th">Verified</th>
+
+        <th scope="col" class="small-th">Blocked</th>
+        <th scope="col" class="small-th">Edit</th>
+        <!--<th scope="col" class="small-th">Edit</th> -->
+      </tr>
+      </thead>
+      <tbody  *ngFor="let client of clients; index as i">
+      <tr class="change-colors">
+        <td> {{client.alias}}</td>
+        <td> {{client.configs}}</td>
+        <td> {{client.mac }}</td>
+        <td> {{client.ip}}</td>
+        <td> {{client.verified ?'Yes' : 'No'}}</td>
+        <td> {{client.ban ?'Yes' : 'No'}}</td>
+
+        <td>
+          <button
+            class="btn btn-secondary "
+            (click)="clicked(client)"
+          >
+            Edit
+          </button>
+        </td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

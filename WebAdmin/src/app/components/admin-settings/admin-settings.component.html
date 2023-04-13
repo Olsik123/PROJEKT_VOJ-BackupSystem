@@ -1,0 +1,36 @@
+<form [formGroup]="form" (ngSubmit)="submit()">
+  <div class="full-box">
+        <div class="o col">
+          <h2 class="alias">Email:</h2>
+          <label class="form-label"></label>
+          <input type="hidden" class="form-control email-inputbox" formControlName="email">
+          <input type="text" class="form-control email-inputbox" formControlName="email">
+  </div>
+
+    <h2 class="fr-headline2">Frequency:</h2>
+    <div class="second-box">
+
+      <div class="buttons row">
+          <label class="container label-simple">
+            <input  class="input" type="radio" value='0 0 0 * * ?' formControlName="frequency">Every day
+
+            <span class="checkmark"></span>
+          </label>
+        <p class="inf">Everyday at 00:00</p>
+          <label class="container label-simple">
+            <input class="input" type="radio" value='0 0 0 1 * ?' formControlName="frequency">Every week
+            <span class="checkmark"></span>
+          </label>
+        <p  class="inf">Every monday at 00:00</p>
+          <label class="container label-simple">
+            <input class="input" type="radio" value='0 0 0 ? * 1' formControlName="frequency">Every month
+            <span class="checkmark"></span>
+          </label>
+        <p  class="inf">Every 1st day of month</p>
+      </div>
+    </div>
+    <button id="save"  type="submit" class="btn btn-primary save-button">Save</button>
+  </div>
+</form>
+
+

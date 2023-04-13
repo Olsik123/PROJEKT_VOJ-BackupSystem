@@ -1,0 +1,8 @@
+<div class="container-fluid TopBar">
+  <h1> EDIT CLIENT</h1>
+</div>
+  <app-client-edit-form *ngIf="client" [form]="form" (saved)="save()"></app-client-edit-form>
+  <div *ngIf="!client" class="alert alert-danger">
+    Client not found
+  </div>
+

@@ -1,0 +1,53 @@
+<div class="col content">
+  <div class="pickers">
+    <mat-form-field hidden class="example-full-width config-picker " appearance="fill" >
+      <mat-label>Config name</mat-label>
+      <input matInput [(ngModel)]="SearchedConfig" >
+    </mat-form-field>
+    <button type="button" class="btn btn-success add-button" routerLink="/newconfig">New config</button>
+  </div>
+  <div class="row lenght-of-table" >
+    <table class="table table-striped ConfigTable"
+    >
+      <thead>
+      <tr>
+        <th scope="col" class="smaller-th"> Config Name</th>
+        <th scope="col" class="clients-th">Clients</th>
+        <th scope="col" class="small-th">Format</th>
+        <th scope="col" class="small-th">Type</th>
+        <th scope="col" class="small-th">Retention</th>
+        <th scope="col" class="small-th">Packages</th>
+        <th scope="col" class="small-th">Edit</th>
+        <th scope="col" class="small-th">Delete</th>
+        <!--<th scope="col" class="small-th">Edit</th> -->
+      </tr>
+      </thead>
+      <tbody  *ngFor="let config of configs; index as i">
+      <tr class="change-colors">
+        <td> {{config.alias}}</td>
+        <td> {{config.clients}}</td>
+        <td> {{config.format}}</td>
+        <td> {{config.type}}</td>
+        <td> {{config.retention}}</td>
+        <td> {{config.packages}}</td>
+        <td>
+          <button
+            class="btn btn-secondary "
+            (click)="clicked(config)"
+          >
+            Edit
+          </button>
+        </td>
+        <td>
+          <button
+            class="btn btn-danger "
+            (click)="Delete(config)"
+          >
+            DELETE
+          </button>
+        </td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

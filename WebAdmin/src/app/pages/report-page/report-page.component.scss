@@ -1,0 +1,70 @@
+.TopBar{
+  background-color: #a6a6a6;
+  color:  black;
+  margin: 0;
+  height: 5vw;
+  position: sticky;
+  top: 0;
+  width: 100%;
+
+}
+h1{
+  font-size: 300%;
+  padding-top: 1.5%;
+  color: black;
+  font-family: 'Raleway',sans-serif;
+  font-weight: 800;
+  line-height: 2vw;
+  text-align: center;
+  height: 5vw;
+  text-transform: uppercase;
+}
+.content{
+  width: 90%;
+}
+
+.pickers{
+  position: sticky;
+  top:5vw;
+  opacity: 100%;
+  background-color: white;
+  height: 5vw;
+  width: 110%;
+}
+.config-picker{
+  text-align: center;
+  width: 17vw;
+  margin-left: 8vw;
+  margin-top: 1vw;
+}
+.client-picker{
+  text-align: center;
+  width: 17vw;
+  margin-left: 6vw;
+}
+.status-picker{
+  text-align: center;
+  margin-left: 5vw;
+  width: 6vw;
+}
+
+th{
+  position: sticky;
+  top: 10vw;
+  width: 15vw;
+  color: white;
+  background-color: black;
+  border-bottom: solid black 3px;
+}
+.small-th{
+  width: 6vw;
+}
+.ReportTable{
+  border-collapse: separate;
+  offset: 1vw;
+  width: 80vw;
+  margin-left: 5vw;
+  text-align: center;
+  vertical-align: middle;
+}
+

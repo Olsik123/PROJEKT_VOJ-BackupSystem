@@ -1,0 +1,43 @@
+
+<div class="col content">
+  <div class="pickers">
+    <mat-form-field class="example-full-width mac-picker" appearance="fill">
+      <mat-label>MAC Address</mat-label>
+      <input matInput [(ngModel)]="SearchedMAC" >
+    </mat-form-field>
+    <mat-form-field class="example-full-width ip-picker" appearance="fill">
+      <mat-label>IP Address</mat-label>
+      <input matInput [(ngModel)]="SearchedIP" >
+    </mat-form-field>
+  </div>
+  <div class="row lenght-of-table" >
+    <table class="table table-striped ConfigTable"
+    >
+      <thead>
+      <tr>
+        <th scope="col" class="smaller-th">Client name</th>
+        <th scope="col" class="address-th">MAC</th>
+        <th scope="col" class="address-th">IP</th>
+        <th scope="col" class="small-th">Verify</th>
+        <!--<th scope="col" class="small-th">Edit</th> -->
+      </tr>
+      </thead>
+      <tbody  *ngFor="let client of clients; index as i">
+      <tr class="change-colors">
+        <td> {{client.alias}}</td>
+        <td> {{client.mac }}</td>
+        <td> {{client.ip}}</td>
+
+        <td>
+          <button
+            class="btn btn-secondary "
+            (click)="Trust(client.id)"
+          >
+            Trust
+          </button>
+        </td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

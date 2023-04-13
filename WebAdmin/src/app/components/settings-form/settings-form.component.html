@@ -1,0 +1,19 @@
+
+<div class="row w-50 CronNames">
+  <H4 class="col"> Minutes</H4>
+  <H4 class="col hours-name">Hours</H4>
+  <H4 class="col">Day of month</H4>
+  <H4 class="col month-name">Month</H4>
+  <H4 class="col">Day of week</H4>
+</div>
+
+
+<form [formGroup]="form">
+  <div class="input-group " formGroupName="frequency">
+    <input formControlName="minutes" type="text" aria-label="First name"  placeholder="0 - 59" class="form-control fc">
+    <input formControlName="hours" type="text" aria-label="Last name"  placeholder="0 - 23" class="form-control fc">
+    <input formControlName="dayOfMonth" type="text" aria-label="First name" placeholder="1 - 31" class="form-control fc">
+    <input formControlName="months" type="text" aria-label="Last name"  placeholder="1 - 12"  class="form-control fc">
+    <input formControlName="dayOfWeek" type="text" aria-label="First name"  placeholder="0 - 6"  class="form-control fc">
+  </div>
+</form>

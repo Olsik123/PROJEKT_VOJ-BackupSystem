@@ -1,0 +1,172 @@
+<form [formGroup]="form" (ngSubmit)="submit()">
+  <div class="full-box">
+    <div class="first-box ">
+      <div class="mb-3 ">
+        <div class="row3">
+          <h2 class="alias">Config Alias:</h2>
+          <label class="form-label"></label>
+          <input id="inp1" type="text" class="form-control alias-inputbox " formControlName="alias">
+          <div class="invalid-feedback">
+            Pole je povinné
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="column">
+          <h2>Format:</h2>
+
+          <div class="buttons row">
+            <div id="rad1">
+              <label class="container label-simple">
+                <input  class="input" type="radio" value='plain' formControlName="format" >Plain
+                <span class="checkmark"></span>
+              </label>
+            </div>
+            <div id="rad2">
+              <label class="container label-simple">
+                <input class="input" type="radio" value='archive' formControlName="format">Archive
+                <span class="checkmark"></span>
+              </label>
+            </div>
+          </div>
+        </div>
+        <div class="column2">
+          <div class="typ">
+            <h2 >Type:</h2>
+
+
+            <div class="buttons row">
+
+              <div id="rad3">
+
+                <label class="container label-simple">
+                  <input class="input" type="radio" value='full' formControlName="type" >Full
+                  <span class="checkmark"></span>
+                </label>
+              </div>
+
+              <div id="rad4">
+                <label class="container label-simple">
+                  <input class="input" type="radio" value='diff' formControlName="type">Differential
+                  <span class="checkmark"></span>
+                </label>
+              </div>
+              <div id="rad5">
+                <label class="container label-simple">
+                  <input class="input" type="radio" value='incr' formControlName="type">Incremental
+                  <span class="checkmark"></span>
+                </label>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+      </div>
+      <div class="row">
+        <div class="column">
+          <h2 id="RT">Retention:</h2>
+          <label class="form-label"></label>
+          <input id="inp2" type="number" min="0" class="form-control alias-input" formControlName="retention">
+          <div class="invalid-feedback">
+            Pole je povinné
+
+          </div>
+        </div>
+        <div class="column2">
+          <div class="packages">
+            <h2 id="PC">Packages:</h2>
+            <label class="form-label"></label>
+            <input id="inp3"type="number" min="0" class="form-control alias-input" formControlName="packages">
+            <div class="invalid-feedback">
+              Pole je povinné
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="second-box">
+      <h2 class="fr-headline">Frequency (Cron):</h2>
+      <app-settings-form [form]="form"></app-settings-form>
+    </div>
+
+    <div class="third-box">
+      <div class="row1">
+        <div class="column">
+          <div id="SD">
+            <h2 id="sources">Sources</h2>
+
+            <div *ngFor="let control of sources; index as i">
+              <mat-form-field class="example-form-field" appearance="fill">
+                <mat-label>Source</mat-label>
+                <input  matInput [formControl]="control"  required  type="text" >
+                <button matSuffix mat-icon-button aria-label="Clear" (click)="removeSource(i)">
+                  <mat-icon>close</mat-icon>
+                </button>
+              </mat-form-field>
+            </div>
+
+            <div>
+              <button type="button" class="btn btn-success" (click)="addSource()">Add source</button>
+            </div>
+
+          </div>
+        </div>
+        <div class="column1">
+
+          <h2 id="destinations">Destinations</h2>
+          <H5>For FTP: destination: "/*"  host: "ftp://user:password@host:port/"</H5>
+          <div formArrayName="destinations">
+            <tbody  *ngFor="let control of destinations; index as i">
+
+            <mat-form-field [formGroupName]="i" class="path-select" appearance="fill">
+              <mat-label>Place</mat-label>
+              <select matNativeControl  formControlName="place" >
+                <option  value="local">Local</option>
+                <option value="ftp">FTP</option>
+              </select>
+            </mat-form-field>
+            <mat-form-field [formGroupName]="i" class="example-form-field" appearance="fill">
+              <mat-label>Destination</mat-label>
+              <input  matInput formControlName="path" required  type="text">
+              <button type="button" matSuffix mat-icon-button aria-label="Clear" (click)="removeDestination(i)">
+                <mat-icon>close</mat-icon>
+              </button>
+            </mat-form-field>
+            <mat-form-field [formGroupName]="i" class="example-form-field" appearance="fill">
+              <mat-label>Host</mat-label>
+              <input  matInput formControlName="host"  required  type="text" >
+            </mat-form-field>
+            </tbody>
+          </div>
+          <div>
+            <button type="button" class="btn btn-success" (click)="addDestination()">Add destination</button>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="fourth-box">
+      <h2 class="clients-choose">Choose clients</h2>
+      <table id="table1" class="table table-striped ConfigTable">
+        <thead>
+        <tr>
+          <th scope="col" >Client</th>
+          <th scope="col" >Check</th>
+        </tr>
+        </thead>
+        <tbody  *ngFor="let client of clients; index as i">
+        <tr class="change-colors">
+          <td> {{client.alias}}</td>
+          <td>
+            <input  type="checkbox" class="input" value="{{client.id}}" [checked]=checkClients(client.id) (change)="addClient($event)">
+          </td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+    <button id="save"  type="submit" class="btn btn-primary save-button">Save</button>
+  </div>
+</form>
+

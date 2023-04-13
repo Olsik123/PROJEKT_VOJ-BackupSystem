@@ -1,0 +1,9 @@
+<div class="container-fluid TopBar">
+  <h1> EDIT CONFIGURATION</h1>
+</div>
+<div class="card-body">
+  <app-config-edit-form *ngIf="config" [form]="form" (saved)="save()"></app-config-edit-form>
+    <div *ngIf="!config" class="alert alert-danger">
+      Config not found
+    </div>
+  </div>

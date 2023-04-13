@@ -1,0 +1,119 @@
+.TopBar{
+  background-color: #a6a6a6;
+  color:  black;
+  margin: 0;
+  height: 5vw;
+
+}
+h1{
+  font-size: 300%;
+  padding-top: 1.5%;
+  color: black;
+  font-family: 'Raleway',sans-serif;
+  font-weight: 800;
+  line-height: 2vw;
+  text-align: center;
+  height: 5vw;
+  text-transform: uppercase;
+}
+h2{
+  padding-top: 2vw;
+  color: black;
+  font-family: 'Raleway',sans-serif;
+  font-weight: 800;
+  line-height: 2vw;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.progress{
+  margin-bottom: 1vw;
+}
+.AddButton{
+  background-color: greenyellow;
+  height: 4vw;
+  width: 4vw;
+  font-size: 200%;
+  margin-left: 30%;
+  margin-top: -10%;
+}
+.VerifyButton{
+  background-color: yellow;
+  height: 4vw;
+  width: 4vw;
+  font-size: 200%;
+  margin-left: 31%;
+  margin-top: -10%;
+}
+
+.AddText{
+  text-align: center;
+  vertical-align: middle;
+  font-size: 150%;
+  margin-right: 5vw;
+  margin-top: -40%;
+
+}
+mat-icon{
+  margin-top: 1vw;
+  font-size: 500%;
+  height: 4vw;
+  width: 7vw;
+}
+.tableDiv{
+  height: 15vw;
+  overflow: scroll;
+  overflow-x: hidden;
+  border-radius: 1%;
+  margin:1vw;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+
+}
+.Info{
+  margin-right: 3vw;
+  margin-left:  3vw;
+}
+.ErrorTable{
+  height: 5vw;
+  margin-right: 5vw;
+  height: 12vw;
+  margin:0;
+  width: 100%;
+}
+th{
+  position: sticky;
+  top: 0vw;
+  background-color: black;
+  color: white;
+  border-bottom: solid black 3px;
+}
+tr{
+  background-color: #cbcbcb;
+}
+thead{
+  background-color: black;
+  color: #a6a6a6;
+  position: sticky;
+}
+tbody{
+  background-color: lighten( #a6a6a6, 10%);
+}
+::-webkit-scrollbar-track
+{
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+  background-color: #F5F5F5;
+}
+
+::-webkit-scrollbar
+{
+  width: 6px;
+  background-color: #F5F5F5;
+}
+
+::-webkit-scrollbar-thumb
+{
+  background-color: #000000;
+}
+
+
+
