@@ -23,7 +23,7 @@ namespace API_Serivce.Models
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             
-            optionsBuilder.UseMySQL("server=mysqlstudenti.litv.sssvt.cz;database=3b2_bucinajonas_db1;user=bucinajonas;password=clashroyale1;SslMode=none");
+            optionsBuilder.UseMySQL("server=SERRVER;database=DAT;user=U;password=PASS;SslMode=none");
         }
     }
 }
